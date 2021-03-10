@@ -1,6 +1,7 @@
 # React (Ignite-1) @ Rocketseat
 ### 01 - GitHub Explorer
 
+---
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Yarn" width="80px" src="https://github.com/yarnpkg/assets/raw/master/yarn-kitten-full.png?raw=true" />
