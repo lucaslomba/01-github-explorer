@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(68, 68, 68);
+}
+
+section.respository-list{
+    margin: 40px;
+
+    h1{
+        margin-bottom: 16px;
+        color: white;
+    }
+
+    ul{
+        list-style: none;
+
+        li{
+            background-color: #8257e6;
+            padding: 10px;
+            border-radius: 5px;
+            border: 2px solid rgba(255, 255, 255, 0);
+            transition: 300ms;
+            & + li {
+                margin-top: 20px;
+            }
+        }
+
+        li:hover{
+            border: 2px solid white;
+        }
+
+        strong{
+            color: white;
+        }
+
+        p{
+            font-size: 14px;
+            color: rgb(219, 219, 219);
+            margin-top: 8px;
+        }
+
+        a{
+            display: inline-block;
+            margin-top: 16px;
+            text-decoration: none;
+            color: rgb(219, 219, 219);
+        }
+    }
+}
